@@ -1,0 +1,18 @@
+#welcome-container {
+  text-align: center;
+  margin-top: 100px;
+  position: relative;
+  color: #dc7901;
+  font-size: 20px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.input {
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+.button{
+  padding-top: 5px;
+  font-size: medium;
+}
